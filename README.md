@@ -22,10 +22,6 @@ This project contains data processing scripts and notebooks for preparing user i
 ## Requirements
 See `requirements.txt` for the list of required Python packages.
 
-## Author
-- Juan Camilo Sanguino
-- jc.sanguino10@uniandes.edu.co
-
 # Citation:
 To use this dataset and for a better understanding about the process used in the dataset review:
 
